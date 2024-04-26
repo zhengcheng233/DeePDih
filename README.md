@@ -22,6 +22,7 @@ Users can install the required packages by running the following command:
 
 ```bash
 conda install -c conda-forge rdkit geometric tblite-python psi4 openmm
+mamba install tblite
 ```
 
 If you want to use Psi4 to compute RESP charges, you also need to install Psi4 with the following command:
